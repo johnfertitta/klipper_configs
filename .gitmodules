@@ -1,0 +1,3 @@
+[submodule "strayr-k-macros"]
+	path = strayr-k-macros
+	url = https://github.com/strayr/strayr-k-macros.git
